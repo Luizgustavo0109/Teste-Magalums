@@ -18,7 +18,7 @@
    * Cancelar uma agendamento de notificação
  </p>
 
-## Solução Técnica
+## Soluções Técnica
 
  <p>
    
